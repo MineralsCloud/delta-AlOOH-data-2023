@@ -1,4 +1,4 @@
-
+Raw data for manuscript "High throughput sampling of phase space with deep learning potentials: δ-AlOOH at geophysical conditions" (https://arxiv.org/abs/2309.06712).
 
 ## Datasets
 
@@ -15,4 +15,4 @@ The dataset in `data/rdf-300K` includes the Pair correlation function data, i.e.
 
 ### P-V compression curve data at 300 K (`data/eos-300K`)
 
-The dataset in `data/eos-300K` includes the compression curve at 300 K. The results are for 1,024 atoms. The pressure unit is bar, and the volume unit is $\mathrm{\AA}^3$.
+The dataset in `data/eos-300K` includes the compression curve at 300 K. The results are for 1,024 atoms. The pressure unit is bar, and the volume unit is $\mathrm{Å}^3$.

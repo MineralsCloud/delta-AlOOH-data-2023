@@ -16,3 +16,7 @@ The dataset in `data/rdf-300K` includes the Pair correlation function data, i.e.
 ### P-V compression curve data at 300 K (`data/eos-300K`)
 
 The dataset in `data/eos-300K` includes the compression curve at 300 K. The results are for 1,024 atoms. The pressure unit is bar, and the volume unit is $\mathrm{\AA}^3$.
+
+### P-V compression curve data at high-temperature (`data/eos`)
+
+The dataset in `data/eos` includes the compression curve at high-temperature. The volumes are for conventional unit cell (8 atoms, 2 f.u.). The pressure unit is in GPa, and the volume unit is $\mathrm{\AA}^3$.
